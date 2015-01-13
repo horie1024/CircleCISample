@@ -1,6 +1,6 @@
 general:
   artifacts:
-    - "app/build/outputs/apk/app-debug.apk"
+    - "app/build/outputs/apk/app-release-unsigned.apk"
 machine:
   java:
     version: openjdk7
