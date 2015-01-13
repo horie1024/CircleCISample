@@ -1,3 +1,6 @@
+general:
+  artifacts:
+    - "app/build/outputs/apk/app-debug.apk"
 machine:
   java:
     version: openjdk7
